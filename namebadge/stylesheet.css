@@ -1,0 +1,33 @@
+.red {background-color:rgb(224, 14, 14) ;
+    font-family: 'Questrian', sans-serif;
+    text-align: center;
+    border-style: solid; color:rgb(224, 14, 14);
+    border-radius: 4%;
+    height: 305px;
+    width: 425px; 
+
+    }
+
+.white{
+    color: white;
+    }
+
+.hello{ 
+    font-size: 85px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.phrase{
+    font-size: 35px;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+.name{
+    font-size: 85px; color:black;
+    background-color: white; 
+    margin: 2px 0 35px;
+    height: 110px;
+    padding: 35px 0 0;
+}    
